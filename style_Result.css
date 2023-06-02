@@ -1,0 +1,51 @@
+body{
+    background-color: #dfe6f3de;
+    margin: 0;
+   
+}
+
+.row{
+    padding: 10px 25px;
+}
+
+.happyface{
+    float: left;
+    width: 100%;
+}
+
+.title{
+    font-size: 2em;
+    color: black;
+    text-align: center;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+
+
+.container{
+    padding: 0px;
+    transition: .5s all;
+    width: 30%;
+}
+
+.header{
+
+
+    border-radius: .5vmax;
+    background-color: rgba(113, 136, 239, 0.767);    
+    width: 100%;
+    justify-content: center;
+    color: white;
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+
